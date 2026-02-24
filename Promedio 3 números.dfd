@@ -1,0 +1,19 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+'Señor usuario ingrese tres números, para darle el promedio'
+5
+1
+14
+num1,num2,num3
+4
+1
+64
+'El promedio de los tres números dados es: ', (num1+num2+num3)/3
+1
